@@ -7,7 +7,7 @@ This project was meant to create an application that implements the functionalit
 - for invalid expressions the computer will display an error message
 - the application can process the equations in a text file (one equation per line) and will display the results in the console or in another text file (the user can choose between the two options)
 
-Programing language used: C++
+Programming language used: C++
 
 IDE used: Visual Studio
 
